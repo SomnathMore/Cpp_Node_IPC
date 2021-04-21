@@ -1,5 +1,8 @@
-while(true)
-{
-
-    
+function StartServer() {
+   
 }
+
+(async () => {
+    await StartServer();
+})().catch((error) =>{
+});
